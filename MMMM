@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>My Personal Profile</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="#about">About</a></li>
+      <li><a href="#education">Education</a></li>
+     <li><a href="#contact">Contact</a></li>
+      <1i><a href="#Address">Address</a></1i>
+    </u1>
+  </nav>
+  <main role="main">
+    <section>
+      <img src="img/mustapha muhammad dunoma_image.jpg" alt="Profile picture of Mustapha Muhammad Dunoma">
+      <h2 id="about">About</h2>
+      <p>Hello, my name is Mustapha Muhammad Dunoma and I am a software development student at darey.io under 3mtt, with a passion for creating innovative solutions.</p>
+      <h2 id="education">Education</h2>
+      <p>I am an undergraduate at Borno State University (BOSU), studying biotechnology(BTG).</p>
+      <h>ad="Maiduguri, Borno state gwange 1 ward waziri Musa street.</p>
+</section>
+  </main>
+  <footer>
+    <h2 id="contact">Contact</h2>
+    <p>You can reach me via <a href="mailto: mmdunoma85@gmail.com">mmdunoma85@gmail.com</a> or <a href="tel:+2349085110193">(+234) 908-5110-193</a></p>
+    <p>&copy; 2025 Mustapha Muhammad Dunoma</p>
+  </footer>
+</body>
+</html>
